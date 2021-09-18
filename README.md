@@ -13,3 +13,5 @@ The data set provided can be categorized into two categories which are purchase 
 
 ## Software used
 Tableau desktop
+
+**Kindly download the power point to view more details about the project.**
